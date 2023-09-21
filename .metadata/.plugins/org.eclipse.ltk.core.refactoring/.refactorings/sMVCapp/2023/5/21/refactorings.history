@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;UserRegDTO.java&apos; to &apos;sBootApp/src/main/java/com.sBootApp&apos;&#x0D;&#x0A;- Original project: &apos;sMVCapp&apos;&#x0D;&#x0A;- Destination element: &apos;sBootApp/src/main/java/com.sBootApp&apos;&#x0D;&#x0A;- Original element: &apos;com.controller.UserRegDTO.java&apos;" description="Copy compilation unit" destination="=sBootApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sBootApp" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.controller{UserRegDTO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1684645084576" units="1" version="1.0"/>
+</session>

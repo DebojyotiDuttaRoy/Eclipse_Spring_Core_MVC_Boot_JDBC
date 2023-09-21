@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;sMVC_2/WebContent/WEB-INF/mybeans.xml&apos; to &apos;fcbeans.xml&apos;" description="Rename resource &apos;mybeans.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/mybeans.xml" name="fcbeans.xml" stamp="1683467341610" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;sMVC_2/WebContent/WEB-INF/fcbeans.xml&apos; to &apos;mybeans.xml&apos;" description="Rename resource &apos;fcbeans.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/fcbeans.xml" name="mybeans.xml" stamp="1683468035756" updateReferences="true"/>
+</session>

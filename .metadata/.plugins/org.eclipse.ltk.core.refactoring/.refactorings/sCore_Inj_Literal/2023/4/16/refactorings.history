@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.Inj_Literal&apos; to &apos;com.InjectLiteral&apos;&#x0D;&#x0A;- Original project: &apos;sCore_Inj_Literal&apos;&#x0D;&#x0A;- Original element: &apos;sCore_Inj_Literal/src/com.Inj_Literal&apos;&#x0D;&#x0A;- Renamed element: &apos;sCore_Inj_Literal/src/com.InjectLiteral&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.Inj_Literal&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.Inj_Literal" name="com.InjectLiteral" qualified="false" references="true" stamp="1681840986940" textual="false" version="1.0"/>
+</session>

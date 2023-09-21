@@ -1,0 +1,2 @@
+/*INSERT INTO tbl_reg (UName,Email_Id,Password,Gender,Hobby) VALUES ('Piyas', 'piyas@gmail.com', '4208', 'Male', ARRAY ['Singing']);*/
+/*INSERT INTO tbl_reg (UName,Email_Id,Password,Gender,Hobby) VALUES ('Ankit', 'ankit@gmail.com', '4567', 'Male', ARRAY ['Singing','Dancing']);*/
