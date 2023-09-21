@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;MavenApp&apos; to &apos;sBoot_1&apos;" description="Rename resource &apos;MavenApp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/MavenApp" name="sBoot_1" stamp="1684225634911" updateReferences="true"/>
-</session>
